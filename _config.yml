@@ -1,0 +1,37 @@
+# Site settings
+name: Pradeep Kumar Prasad
+email: singhmihir@gmail.com
+#canonical_url: https://edwinexemplar.com
+keywords: "Software Engineer, DS, Algorithm, Mean Stack, Python, Platform Engineering, Kafka, Openshift,Unix"
+skills: "Software Engineer in Pune, Infosys"
+baseurl: 
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# You should replace these with your social networks, of course. :)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/mihir-kumar-singh-a2a456130
+  - title: github
+    url: https://github.com/Mihirkumarsingh
+  - title: twitter
+    url: https://twitter.com/MiHirSINHGH
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: f9e4b7
+  primary-rgb: "33, 150, 243"
+  secondary: 3a4660
+  secondary-dark: 3a4660
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
