@@ -1,6 +1,6 @@
 # Site settings
 name: Pradeep Kumar Prasad
-email: singhmihir@gmail.com
+email: pradeepkumar24496@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, DS, Algorithm, Mean Stack, Python, Platform Engineering, Kafka, Openshift,Unix"
 skills: "Software Engineer in Pune, Infosys"
@@ -9,12 +9,12 @@ baseurl:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/mihir-kumar-singh-a2a456130
+  - title: instagram
+    url: https://www.instagram.com/pradeep49699/
   - title: github
-    url: https://github.com/Mihirkumarsingh
+    url: https://github.com/pradeepkumar244
   - title: twitter
-    url: https://twitter.com/MiHirSINHGH
+    url: https://twitter.com/
 
 # Google webmaster tools
 google_verify:
